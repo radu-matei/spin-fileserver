@@ -633,6 +633,7 @@ dependencies = [
  "hex",
  "http 0.2.9",
  "mime_guess",
+ "percent-encoding",
  "scopeguard",
  "sha2",
  "spin-sdk",

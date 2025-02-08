@@ -23,6 +23,7 @@ mime_guess = "2.0"
 sha2 = "0.10.8"
 # The Spin SDK.
 spin-sdk = "3.0"
+percent-encoding = "2.3.1"
 
 [workspace]
 members = ["tests"]
